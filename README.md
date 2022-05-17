@@ -30,4 +30,10 @@ bash crack_linux.sh args
 bash crack_mac.sh args
 ```
 
+* 使用前需要安装htpdate `brew install htpdate`
+
 ![image-20220517201521883](README.assets/image-20220517201521883.png)
+
+## 参考
+
+* https://github.com/TryHello/xray_free_crack.git
